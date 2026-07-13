@@ -2,6 +2,9 @@
 
 A Python toolkit for batch-processing electrical and optical characterization data from OLEDs and other LED-based devices, with automated generation of publication-ready J–V–L, current-efficiency, and EQE plots.
 
+<img width="2272" height="1216" alt="ScreenShot_2026-07-13_111751_537" src="https://github.com/user-attachments/assets/16a1c018-1251-4d62-a455-bbdfe7644fd2" />
+
+
 ## Overview
 
 The script reads compatible CSV files from a selected directory and generates:
