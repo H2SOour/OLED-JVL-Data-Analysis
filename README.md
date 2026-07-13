@@ -81,7 +81,7 @@ Each CSV file must contain columns whose names include the following keywords:
 | Voltage | `Drive voltage` |
 | Current density | `Current density` |
 | External quantum efficiency | `EQE` |
-| Current efficiency | `Luminous efficacy` |
+| Current efficiency | `Current efficacy` |
 | Luminance | `Actual luminance` or `Relative luminance` |
 
 Column matching is case-insensitive and allows additional text in the column names.
@@ -95,7 +95,7 @@ Before using the results, confirm that this column in your instrument export act
 If your CSV uses a column named `Current efficiency`, change:
 
 ```python
-col_eff = find_col(df.columns, "Luminous efficacy")
+col_eff = find_col(df.columns, "Current efficacy")
 ```
 
 to:
