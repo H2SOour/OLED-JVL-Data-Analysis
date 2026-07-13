@@ -238,6 +238,12 @@ Measurement systems, column names, units, calibration methods, and export format
 
 The author does not guarantee that the default configuration is appropriate for every measurement system.
 
+## Development note
+
+This toolkit was developed from a practical OLED characterization workflow and implemented with the assistance of AI-based coding tools.
+
+The scientific requirements, data-processing workflow, calculation logic, validation, testing, and documentation were defined and reviewed by the author. Users are encouraged to independently verify calculated results before using them in publications.
+
 ## Citation
 
 If you use this toolkit in academic research, publications, presentations, theses, reports, or publicly distributed analysis workflows, please cite this repository and acknowledge the author.
