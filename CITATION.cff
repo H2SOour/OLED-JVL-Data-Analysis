@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+
+message: "If you use this software in academic research, publications, presentations, theses, reports, or publicly distributed analysis workflows, please cite this repository."
+
+title: "OLED JVL Data Plotter"
+
+type: software
+
+authors:
+  - family-names: "Liu"
+    given-names: "Siyuan"
+
+version: 0.1.0
+
+date-released: 2026-07-13
+
+repository-code: "https://github.com/H2SOour/OLED-JVL-Data-Analysis"
+
+url: "https://github.com/H2SOour/OLED-JVL-Data-Analysis"
+
+license: MIT
+
+abstract: >
+  A Python toolkit for batch-processing, analyzing, and plotting
+  electrical and optical characterization data from OLEDs and other
+  LED-based devices. The toolkit supports automated visualization of
+  J-V-L characteristics, current efficiency, and external quantum
+  efficiency data.
+
+keywords:
+  - OLED
+  - LED
+  - J-V-L
+  - current efficiency
+  - external quantum efficiency
+  - device characterization
+  - data analysis
+  - scientific plotting
+  - Python
