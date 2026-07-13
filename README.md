@@ -1,6 +1,6 @@
 # OLED JVL Data Plotter
 
-![DOI](https://zenodo.org/badge/1298731714.svg)
+[![DOI](https://zenodo.org/badge/1298731714.svg)](https://doi.org/10.5281/zenodo.21330070)
 
 A Python toolkit for batch-processing electrical and optical characterization data from OLEDs and other LED-based devices, with automated generation of publication-ready J–V–L, current-efficiency, and EQE plots.
 
